@@ -36,7 +36,9 @@
 
 ## **RabbitMQ Docker** 
 
-`docker run -it --rm --name rabbitmq -p 5672:5672 -p 15672:15672 rabbitmq:3-management` 
+##
+      docker run -it --rm --name rabbitmq -p 5672:5672 -p 15672:15672 rabbitmq:3-management
+
 
 RabbitMQ Admin console use “guest” default user/pwd only for dev environment  
 Go To \> [http://localhost:15672](http://localhost:15672) and follow the steps : 
