@@ -11,6 +11,16 @@
 
 ---
 
+### **What will we learn in this demo?** ###
+
+1. Using MuleSoft Anypoint Studio
+2. Create a project and a Mule App
+3. We'll find out how to leverageAnypoint Exchange 
+4. How to integrate MuleSoft with RabbitMQ. How?
+   1. With Docker Desktop and RabbitMQ
+   2. MuleSoft Anypoint Studio with AMQP Connector
+
+
 ### **Prerequisites:**
 
 1. Have an account on **Anypoint Platform** to connect to the exchange  
