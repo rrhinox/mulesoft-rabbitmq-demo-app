@@ -11,7 +11,7 @@
 
 ---
 
-### **Prerequisiti:**
+### **Prerequisites:**
 
 1. Have an account on **Anypoint Platform** to connect to the exchange  
 2. Install **Docker** on your PC [Install Docker Desktop on Windows](https://docs.docker.com/desktop/install/windows-install/)   
