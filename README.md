@@ -48,7 +48,8 @@ Go To \> [http://localhost:15672](http://localhost:15672) and follow the steps :
 7. Next **Add AMQP Publish** element and configure it like this   
 8. <img width="371" alt="image" src="https://github.com/user-attachments/assets/d0d9aacc-0b4b-4ffa-96a6-39d7616909ce">
   
-9. Then **add the correct exchange name** binded previously <img width="373" alt="image" src="https://github.com/user-attachments/assets/13ba42ac-53e5-4984-b7e0-e6d4987bbf79">
+9. Then **add the correct exchange name** binded previously 
+<img width="373" alt="image" src="https://github.com/user-attachments/assets/13ba42ac-53e5-4984-b7e0-e6d4987bbf79">
  
 10. Next **Add a Logger** connected after Publish element and **add a Message** to log console example \> “Messaggio pubblicato correttamente su RabbitMQ\!\!\!”  
 11. At the end Run Mule Application  
